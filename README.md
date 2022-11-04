@@ -15,6 +15,8 @@ I'm a Front-end developer from Viet Nam :vietnam: with over 5 years of experienc
 
 :computer:	Skills:
 
+<div align="center">
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Shopware](https://img.shields.io/badge/shopware-blue?style=for-the-badge&logo=shopware&logoColor=white)
@@ -29,5 +31,19 @@ I'm a Front-end developer from Viet Nam :vietnam: with over 5 years of experienc
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  
+ </div>
+
+
+**My work and contribution**:
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crisalder2806&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+</div>
+
+
+
 
 
