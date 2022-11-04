@@ -11,7 +11,7 @@
 
 About Me:
 
-I'm a Front-end developer from Viet Nam :vietnam: with over 5 years of experience in the web industry. Throughout the time, I have gotten involed in E-commerce and started to develop the love for it. Now, with Shopware knowledge, I will continue to help develop E-commerce websites that help businesses grow 🚀
+I'm Vu, a Front-end developer from Viet Nam :vietnam: with over 5 years of experience in the web industry. Throughout the time, I have gotten involed in E-commerce and started to develop the love for it. Now, with Shopware knowledge, I will continue to help develop E-commerce websites that help businesses grow 🚀
 
 :computer:	Skills:
 
